@@ -1,5 +1,5 @@
-# masidy  
-**Modern Multi‑Tenant SaaS Boilerplate for Production‑Grade Applications**
+                                      # masidy  
+           **Modern Multi‑Tenant SaaS Boilerplate for Production‑Grade Applications**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/masidyai/sass/main/public/logo.png" width="120" alt="masidy logo" />
